@@ -1,4 +1,5 @@
 # 我们赖以生存的隐喻
+[history for this note](https://github.com/xiaojingli/BookWriter002/commits/d5da36ead70ead35e1f7fb8d207c8eeff93674fa/chapter04/note.md)  
 
 ## 隐喻：重新范畴化
 例句| 关键词|目标域 | 源域
